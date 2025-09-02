@@ -21,7 +21,6 @@ This project demonstrates CRUD operations, data persistence, and a simple yet fu
 
 # 📸 Screenshots
 ![Main Screen](screenshot.png)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f87d893-eac0-4a27-bef0-50cb6bfb896e" />
 
 # 🛠️ Technologies Used
 
